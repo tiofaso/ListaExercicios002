@@ -1,5 +1,4 @@
 import java.text.DecimalFormat;
-import java.util.Locale;
 import java.util.Scanner;
 
 //Código para exibir a média aritimética de quatro notas inseridas aleatoriamente
